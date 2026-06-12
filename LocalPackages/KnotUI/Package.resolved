@@ -10,6 +10,15 @@
       }
     },
     {
+      "identity" : "csqlite",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stephencelis/CSQLite",
+      "state" : {
+        "revision" : "bdb5580e54cdf49251b365ea34e2651199473240",
+        "version" : "3.50.4"
+      }
+    },
+    {
       "identity" : "sqlite.swift",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/stephencelis/SQLite.swift.git",
@@ -113,8 +122,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-nio.git",
       "state" : {
-        "revision" : "b31565862a8f39866af50bc6676160d8dda7de35",
-        "version" : "2.96.0"
+        "revision" : "77b84ac2cd2ac9e4ac67d19f045fd5b434f56967",
+        "version" : "2.101.0"
       }
     },
     {
